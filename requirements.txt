@@ -1,0 +1,4 @@
+potracer
+pydesmos
+pillow
+opencv-python
